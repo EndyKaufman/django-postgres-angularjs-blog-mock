@@ -7,15 +7,15 @@
     "images": [
       {
         "id": 1,
-        "src": "upload/lucho-22.jpg"
+        "src": "lucho-22.jpg"
       },
       {
         "id": 2,
-        "src": "upload/lucho-41.jpg"
+        "src": "lucho-41.jpg"
       },
       {
         "id": 3,
-        "src": "upload/negativespace-15.jpg"
+        "src": "negativespace-15.jpg"
       }
     ],
     "url": "http://project1",
@@ -47,7 +47,7 @@
     "images": [
       {
         "id": 1,
-        "src": "upload/lucho-22.jpg"
+        "src": "lucho-22.jpg"
       }
     ],
     "url": "http://project2",
