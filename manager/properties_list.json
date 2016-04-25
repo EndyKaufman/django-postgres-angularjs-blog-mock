@@ -26,5 +26,26 @@
     "value": "https://avatars2.githubusercontent.com/u/4127109?v=3&s=460",
     "comment": "Site logo",
     "only_update": 1
+  },
+  {
+    "id": 5,
+    "name": "HOME_HEADER_BOTTOM_HTML",
+    "value": "",
+    "comment": "Html source on header in home page",
+    "only_update": 1
+  },
+  {
+    "id": 6,
+    "name": "HOME_BODY_TOP_HTML",
+    "value": "",
+    "comment": "Html source on top of body element in home page",
+    "only_update": 1
+  },
+  {
+    "id": 7,
+    "name": "HOME_BODY_BOTTOM_HTML",
+    "value": "",
+    "comment": "Html source on bottom of body element in home page",
+    "only_update": 1
   }
 ]
