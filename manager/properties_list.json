@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "SITE_TITLE",
+    "value": "MY BLOG",
+    "comment": "Site title use in emails on sent and use as prefix on page title postfix",
+    "only_update": 1
+  },
+  {
+    "id": 2,
+    "name": "SITE_DESCRIPTION",
+    "value": "description of blog",
+    "comment": "Short site description",
+    "only_update": 1
+  },
+  {
+    "id": 3,
+    "name": "SITE_NAME",
+    "value": "MY_BLOG",
+    "comment": "Project name",
+    "only_update": 1
+  },
+  {
+    "id": 4,
+    "name": "SITE_LOGO",
+    "value": "https://avatars2.githubusercontent.com/u/4127109?v=3&s=460",
+    "comment": "Site logo",
+    "only_update": 1
+  }
+]
