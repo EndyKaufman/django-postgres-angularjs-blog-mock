@@ -47,5 +47,12 @@
     "value": "",
     "comment": "Html source on bottom of body element in home page",
     "only_update": 1
+  },
+  {
+    "id": 8,
+    "name": "ROBOT_TXT",
+    "value": "",
+    "comment": "",
+    "only_update": 1
   }
 ]
