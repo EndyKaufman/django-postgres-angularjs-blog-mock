@@ -1,17 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "keywords",
-    "content": "",
-    "attributes": ""
-  },
-  {
-    "id": 2,
-    "name": "description",
-    "content": "",
-    "attributes": ""
-  },
-  {
     "id": 3,
     "name": "version",
     "content": "",
@@ -38,18 +26,6 @@
   {
     "id": 7,
     "name": "msvalidate.01",
-    "content": "",
-    "attributes": ""
-  },
-  {
-    "id": 8,
-    "name": "twitter:card",
-    "content": "",
-    "attributes": ""
-  },
-  {
-    "id": 10,
-    "name": "twitter:image:src",
     "content": "",
     "attributes": ""
   }
