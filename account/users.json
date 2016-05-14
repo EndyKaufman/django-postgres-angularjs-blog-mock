@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "username": "Admin User Name",
+    "username": "admin",
     "email": "admin@email.com",
     "firstname": "FirstAdminName",
     "lastname": "LastAdminName",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "username": "User Name",
+    "username": "user",
     "email": "user@email.com",
     "firstname": "FirstName",
     "lastname": "LastName",
