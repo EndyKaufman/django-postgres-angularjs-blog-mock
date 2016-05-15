@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "client_id": "mFyx5LYIpFgeH6e8NkZgNGBkpHRVCiVEBqQJ3yk6",
+    "redirect_uris": "http://localhost",
+    "client_type": "confidential",
+    "authorization_grant_type": "password",
+    "client_secret": "tDzxylGEuiOTf7ht6dVjr3MZhR9gZqSFWSVIvKxBzGcUizpZhuwE9AN30VMWojrwvrI5HILMPVKxpdLzOJEhVanVzFoKfo7XfoP0A1SCbiTXOX718KWrdvTk1sr9PcFg",
+    "name": "test",
+    "skip_authorization": 1,
+    "user_id": 1,
+    "tokens": [
+      {
+        "token": "fLzfISwHUzmpU0I1JyZ6ocfM8ht7G1",
+        "scope": "read write",
+        "user_id": 2,
+        "refresh_tokens": [
+          {
+            "token": "HWKOJ4wL7StvhJAky5ALTDYVdIiJ8q",
+            "user_id": 2
+          }
+        ]
+      }
+    ]
+  }
+]
